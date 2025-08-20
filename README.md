@@ -1,0 +1,1 @@
+A machine learning project to predict used car prices based on features like brand, year, fuel type, and transmission. Includes data preprocessing, model training with Random Forest, and evaluation using RMSE and R². Built with Python, pandas, scikit-learn, and matplotlib.
